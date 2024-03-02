@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
 title: Test config
 description: Une bien belle description
+remote_theme: jeffreytse/jekyll-theme-yat
